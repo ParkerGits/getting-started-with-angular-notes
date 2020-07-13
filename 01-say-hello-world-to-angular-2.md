@@ -56,7 +56,7 @@ export class AppComponent {
   title = 'angular2-fundamentals';
 }
 ```
-Our component template is defined by **app.component.html**. To match the lesson, we can make the following changes:
+Our component templateUrl property points to **app.component.html**. To match the webpage in the lesson, we can make the following changes:
 ### app.component.ts
 ```js
 import { Component } from '@angular/core';
@@ -70,7 +70,7 @@ export class AppComponent {
   title = `Let's get started`;
 }
 ```
-After saving these changes and returning to the webpage, we should see our changes in place.
+After saving these changes and returning to localhost:4200 in the browser, we should see a page that resembles the one in the lesson.
 
 ![Lesson 1 Application Page](./images/2.png)
 

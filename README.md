@@ -1,10 +1,10 @@
 # [Getting Started with Angular](https://egghead.io/courses/get-started-with-angular)
 
-## Instructor - [John Lindquist](https://egghead.io/instructors/john-lindquist)
+## 👨‍🏫 Instructor - [John Lindquist](https://egghead.io/instructors/john-lindquist)
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/300/full/angular2.png" width="300"/></p>
 
-## About
+## 🌟 About 
 
 These notes go along with the [Getting Started with Angular](https://egghead.io/courses/get-started-with-angular) course from [John Lindquist](https://egghead.io/instructors/john-lindquist)
 
@@ -17,7 +17,7 @@ In this course, you can expect to
 
 **Updated code for each lesson of this course can be found at https://github.com/ParkerGits/getting-started-with-angular-course-code.**
 
-## Table of Contents
+## 📖 Table of Contents 
 
 - [01-Say "Hello World" to Angular 2](01-say-hello-world-to-angular-2.md)
 

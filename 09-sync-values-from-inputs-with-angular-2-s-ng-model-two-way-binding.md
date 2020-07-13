@@ -100,5 +100,5 @@ And we can see at localhost:4200 that both our message and the message within th
 
 **'Changing this message from outside of the `<input>` updates it in , changing the message from inside of the `<input>` updates it out. That's what the square brackets and parentheses represent around the ngModel.'**
 
-## Resources 
+## Resources 📖
 - [Angular - ngModel Directive](https://angular.io/api/forms/NgModel)

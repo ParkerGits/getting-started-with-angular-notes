@@ -119,6 +119,6 @@ If we remove `.value` from `myInput.value`, save the change, and click the butto
 ![Reference is Element Itself](./images/5.png)
 The return value of the reference to an element is no different than the element itself.
 
-## Resources
+## Resources 📖
 - [Angular - Template Reference Variables](https://angular.io/guide/template-syntax#template-reference-variables-var)
 - [Angular - Event Binding](https://angular.io/guide/template-syntax#event-binding-event)

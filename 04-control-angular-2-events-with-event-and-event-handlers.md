@@ -71,5 +71,5 @@ The `$event` reference works on any DOM event. For example, changing `(click)` t
 ...
 ```
 
-## Resources
+## Resources 📖
 - [Angular - $event](https://angular.io/guide/user-input#get-user-input-from-the-event-object)

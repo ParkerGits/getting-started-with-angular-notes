@@ -106,5 +106,5 @@ And navigating to localhost:4200 should allow us to see displayed the value asso
 
 ![API Injection Display](./images/7.png)
 
-## Resources
+## Resources 📖
 - [Angular - Dependency Injection](https://angular.io/guide/dependency-injection)

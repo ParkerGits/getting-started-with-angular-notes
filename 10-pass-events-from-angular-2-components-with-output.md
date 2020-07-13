@@ -220,5 +220,5 @@ export class MailService {
 
 Now at localhost:4200, we should see that our messages update when our inputs change and corresponding buttons are pressed.
 
-## Resources
+## Resources 📖
 - [Angular - Output Decorator](https://angular.io/api/core/Output)

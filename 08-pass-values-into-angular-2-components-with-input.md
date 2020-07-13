@@ -109,5 +109,5 @@ We can see that each message is printed by a corresponding input field.
 
 The square brackets on `[message]` in **app.component.ts** tells Angular to evaluate `"message"` as the value of the `message` variable and not the `"message"` string. Both the input attribute `[message]` and the variable `message` do **not** need to be the same name as they are in this case.
 
-## Resources
+## Resources 📖
 - [Angular - Input Decorator](https://angular.io/api/core/Input)

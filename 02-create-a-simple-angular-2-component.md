@@ -93,6 +93,6 @@ We can see the hierarchy of our components in the Chrome devtools
 
 ![Chrome Devtools Component Hierarchy](./images/4.png)
 
-## Resources
+## Resources 📖
 - [Angular CLI](https://cli.angular.io/)
 - [Angular - Loading Component Styles](https://angular.io/guide/component-styles#loading-component-styles)

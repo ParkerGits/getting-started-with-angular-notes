@@ -74,7 +74,7 @@ After saving these changes and returning to localhost:4200 in the browser, we sh
 
 ![Lesson 1 Application Page](./images/2.png)
 
-## Resources
+## Resources 📖
 - [Angular CLI](https://cli.angular.io/)
 
 

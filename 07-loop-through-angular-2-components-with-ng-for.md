@@ -83,5 +83,5 @@ Navigating to localhost:4200 should allow us to see a list containing each `mess
 
 The asterisk in `*ngFor` tells Angular that the element is a template that can be regenerated or reused by whatever *structural directive* is passed in. In this case, the structural directive is "ngFor", and it's using the `<li>` element as a template to be reproduced for each `message` in `messages`.
 
-## Resources
+## Resources 📖
 - [Angular - Looping through Data](https://angular.io/guide/displaying-data#add-logic-to-loop-through-data)

@@ -2,7 +2,7 @@
 
 **[📹 Video](https://egghead.io/lessons/angular-provide-and-share-values-with-angular-2-dependency-injection)**
 
-## Object Providers
+## Object Providers ⚡
 In our **app.module.ts** we provided the `MailService`, and we injected the `Mailservice` into our **app.component.ts** constructor by the *type* (the `MailService` in `providers` matches `mail:MailService` in the  `AppComponent` constructor). 
 
 We can accomplish the same thing by navigating to **src/app/app.module.ts** and passing in an object to our `providers` with properties `provide` and `useClass`.

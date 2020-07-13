@@ -19,8 +19,6 @@ In this course, you can expect to
 
 ## Table of Contents
 
-- [00-Intro and Welcome](00-intro-and-welcome.md)
-
 - [01-Say "Hello World" to Angular 2](01-say-hello-world-to-angular-2.md)
 
 - [02-Create a Simple Angular 2 Component](02-create-a-simple-angular-2-component.md)

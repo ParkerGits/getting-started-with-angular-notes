@@ -2,7 +2,8 @@
 
 **[📹 Video](https://egghead.io/lessons/angular-use-global-css-inside-angular-2-components)**
 
-When we bring in a stylesheet to our **src/index.html**:
+## Using and Ignoring Global Styles ⚡
+Here we'll bring in a stylesheet to our **src/index.html**:
 ### index.html
 ```html
 <!doctype html>

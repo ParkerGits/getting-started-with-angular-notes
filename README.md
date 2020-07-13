@@ -15,7 +15,8 @@ In this course, you can expect to
 - Handle events through Angular Components with Angular Event Handlers ✍
 - Style your Angular Application 🎨
 
-**Updated code for each lesson of this course can be found at https://github.com/ParkerGits/getting-started-with-angular-course-code.**
+## 👩‍💻 Code
+**Updated code for each lesson of this course can be found at https://github.com/ParkerGits/getting-started-with-angular-course-code.** Lesson code resides on branch with corresponding name.
 
 ## 📖 Table of Contents 
 

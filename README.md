@@ -1,4 +1,4 @@
-# [Getting Started with Angular](https://egghead.io/courses/get-started-with-angular)
+# [Get Started with Angular](https://egghead.io/courses/get-started-with-angular)
 
 ## 👨‍🏫 Instructor - [John Lindquist](https://egghead.io/instructors/john-lindquist)
 
@@ -6,7 +6,7 @@
 
 ## 🌟 About 
 
-These notes go along with the [Getting Started with Angular](https://egghead.io/courses/get-started-with-angular) course from [John Lindquist](https://egghead.io/instructors/john-lindquist)
+These notes go along with the [Get Started with Angular](https://egghead.io/courses/get-started-with-angular) course from [John Lindquist](https://egghead.io/instructors/john-lindquist) on [egghead.io](http://egghead.io/).
 
 In this course, you can expect to
 - Create an application with the [Angular CLI](https://cli.angular.io/) 🅰

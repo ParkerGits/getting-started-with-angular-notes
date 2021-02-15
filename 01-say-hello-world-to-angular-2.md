@@ -38,7 +38,7 @@ Once loaded, we can navigate to **localhost:4200** in our browser.
 
 If you're following along with the lesson and using the latest version of Angular CLI, you may be surprised to see a much more elaborate page compared to the one in the lesson:
 
-![Angular CLI Default Application Page](.\images\1.png)
+![Angular CLI Default Application Page](./images/1.png)
 
 We can easily modify this page to match the one in the lesson. In your project, navigate to **src/app/app.component.ts**
 
